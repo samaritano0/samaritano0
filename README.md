@@ -20,10 +20,10 @@ I enjoy learning tough concepts and applying them in practical, explainable ways
 ---
 
 ## 🔧 Technical Skills
-- **Languages:** Python, SQL, SAS, R  
+- **Languages:** Python, SQL, SAS
 - **Data Analysis:** Pandas, NumPy, statistical analysis, hypothesis testing  
 - **BI & Visualisation:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Databases:** MySQL, Snowflake, BigQuery  
+- **Databases:** MySQL, BigQuery, SQL Server  
 - **Data Engineering:** ETL processes, data cleansing, automation  
 - **Other:** Git/GitHub, Jupyter Notebook, APIs, A/B testing  
 
