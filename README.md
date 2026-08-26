@@ -1,49 +1,23 @@
-# Hi, I’m Vinicius 👋  
+# Vinicius Samaritano
 
-I’m a **Data Analyst** with a strong focus on turning complex data into clear, actionable insights.  
-I work across data analysis, business intelligence, and statistical modeling, using tools like **Python, SQL, Power BI, Tableau, and Snowflake** to support data-driven decision-making.
+Data Analyst based in Sydney. I turn messy public and operational data into pipelines and dashboards that answer a specific question, not generic reports.
 
-I enjoy working at the intersection of **data, structure, and real-world impact** — whether that’s improving reporting processes, automating workflows, or helping stakeholders understand what the data is really saying.
+Most of what I build starts the same way: pick a real question a domain expert would actually ask, pull the data myself (usually from a public API), build the full path from raw extraction to a database to a BI layer, and write up what the numbers actually say — including where they disagree with the obvious headline number.
 
----
+## Featured projects
 
-## 🧠 How I think about data
-I approach data problems the same way I approach endurance sports like **triathlon and trail running**:
+**[NFIP Flood Risk Intelligence Platform](https://github.com/samaritano0/NFIP-Flood-Risk-Intelligence-Platform)** — five years of US flood insurance claims and policy data (235K+ claims, 18.4M policy transactions), joined against NOAA storm records to find where risk actually concentrates. National loss ratio: 88.7% — but the ten worst counties by dollar loss aren't the same ten you'd get by ranking on ratio alone.
+Python → SQL Server / BigQuery → Power BI.
 
-- break complex challenges into manageable pieces  
-- stay disciplined and consistent  
-- focus on clarity, not shortcuts  
-- keep improving with every iteration  
+**[Performance Analytics](https://github.com/samaritano0/Performance-Analytics)** — a training analytics dashboard built on my own triathlon data, pulled daily from the Garmin API. 127+ DAX measures across load, recovery, and per-sport efficiency metrics. Biggest single result: a 45% improvement in swim SWOLF over 13 months, tracked and explained, not just plotted.
+Python → SQL Server → Power BI.
 
-I enjoy learning tough concepts and applying them in practical, explainable ways.
+## Working with
 
----
+Python · SQL (SQL Server, BigQuery) · Power BI / DAX · Pandas · REST APIs
 
-## 🔧 Technical Skills
-- **Languages:** Python, SQL, SAS
-- **Data Analysis:** Pandas, NumPy, statistical analysis, hypothesis testing  
-- **BI & Visualisation:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Databases:** MySQL, BigQuery, SQL Server  
-- **Data Engineering:** ETL processes, data cleansing, automation  
-- **Other:** Git/GitHub, Jupyter Notebook, APIs, A/B testing  
+## Background
 
----
+Data Analyst in insurance and tech, mostly dashboards, ETL, and turning a business question into something a stakeholder can act on without needing to read the query behind it.
 
-
-## 💼 Professional Background
-I’ve worked as a **Data Analyst** in insurance and technology-driven environments, supporting teams with:
-- interactive dashboards for executive decision-making  
-- automated data pipelines and reporting processes  
-- data quality improvements and governance  
-- translating business questions into analytical solutions  
-
-I’m comfortable working with both **technical and non-technical stakeholders** and enjoy bridging that gap.
-
----
-
-
-📍 Based in Sydney  
-📬 Feel free to reach out via GitHub or LinkedIn
-
-Thanks for stopping by!
-
+Reach me through GitHub or LinkedIn.
