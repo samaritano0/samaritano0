@@ -6,14 +6,14 @@ Most of what I build starts the same way: pick a real question a domain expert w
 
 ## Featured projects
 
-**[Ecommerce Analytics Engineering](https://github.com/samaritano0/Ecommerce-Analytics-Engineering)** - a dbt project on Olist's Brazilian e-commerce and B2B marketing funnel data (100K+ orders, 8K leads), built as an analytics engineering pipeline rather than a one-off analysis: staging, intermediate and mart layers, tests that document real data quality issues instead of hiding them, and CI that runs the full build on every push. Late deliveries cut the average review score from 4.29 to 2.57, and only 3.1% of real customers ever buy twice.
-dbt → Snowflake → GitHub Actions.
-
 **[NFIP Flood Risk Intelligence Platform](https://github.com/samaritano0/NFIP-Flood-Risk-Intelligence-Platform)** - five years of US flood insurance claims and policy data (235K+ claims, 18.4M policy transactions), joined against NOAA storm records to find where risk actually concentrates. National loss ratio: 88.7% , but the ten worst counties by dollar loss aren't the same ten you'd get by ranking on ratio alone.
 Python → SQL Server / BigQuery → Power BI.
 
 **[Performance Analytics](https://github.com/samaritano0/Performance-Analytics)** - a training analytics dashboard built on my own triathlon data, pulled daily from the Garmin API. 127+ DAX measures across load, recovery, and per-sport efficiency metrics. Biggest single result: a 45% improvement in swim SWOLF over 13 months, tracked and explained, not just plotted.
 Python → SQL Server → Power BI.
+
+**[Ecommerce Analytics Engineering](https://github.com/samaritano0/Ecommerce-Analytics-Engineering)** - a dbt project on Olist's Brazilian e-commerce and B2B marketing funnel data (100K+ orders, 8K leads), built as an analytics engineering pipeline rather than a one-off analysis: staging, intermediate and mart layers, tests that document real data quality issues instead of hiding them, and CI that runs the full build on every push. Late deliveries cut the average review score from 4.29 to 2.57, and only 3.1% of real customers ever buy twice.
+dbt → Snowflake → GitHub Actions.
 
 ## Working with
 
