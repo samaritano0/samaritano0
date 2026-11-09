@@ -1,6 +1,6 @@
 # Vinicius Samaritano
 
-Data Analyst based in Sydney. I turn messy public and operational data into pipelines and dashboards that answer a specific question, not generic reports.
+Data Analyst based in Madrid. I turn messy public and operational data into pipelines and dashboards that answer a specific question, not generic reports.
 
 Most of what I build starts the same way: pick a real question a domain expert would actually ask, pull the data myself (usually from a public API), build the full path from raw extraction to a database to a BI layer, and write up what the numbers actually say - including where they disagree with the obvious headline number.
 
